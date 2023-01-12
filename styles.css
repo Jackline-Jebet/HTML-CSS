@@ -1,0 +1,20 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+    font-family: Verdana;
+    font-size: 300%;
+}
+p {
+    color: red;
+    font-family: courier;
+    font-size: 150%;
+    border: 2px solid blue; 
+    padding: 50px;
+    margin: 50px;
+
+}
+/* border property defines a border around HTML elements . Also you can add the color you want*/
+/* padding property defines the space between the text and the border */
+/* margin defines the space outside the border */
